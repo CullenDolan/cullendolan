@@ -1,7 +1,7 @@
 ## Here is a little about me:
 - I’m currently working on freeing data from Excel files
 - I’m currently learning AWS (and sprinkling in some Azure). I want to get my AWS Solutions Architect certification by August 2021
-- I'll be posting my notes and key takeaways on my [Gist](https://gist.github.com/CullenDolan)
+- I'll be posting my notes and key takeaways on my [Gist](https://gist.github.com/CullenDolan). Or by any of the links below
 - How to reach me: cullen@cloudengineeringsolutions.com
 
 ## Languages and Tools:
