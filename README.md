@@ -1,7 +1,7 @@
 ## Here is a little about me:
 - I’m currently working on freeing data from Excel files
 - I’m currently learning AWS and taking the AWS Solutions Architect certification test on July 31, 2021
-- I'll be posting my notes and key takeaways on my [Gist](https://gist.github.com/CullenDolan). Or by any of the links below
+- I'll be posting my notes and key takeaways in [this repo](https://github.com/CullenDolan/AWS-SAA). Or by any of the links below
 - How to reach me: cullen@cloudengineeringsolutions.com
 
 ## Languages and Tools:
