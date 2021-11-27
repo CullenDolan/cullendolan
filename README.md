@@ -1,5 +1,5 @@
 ## Here is a little about me:
-- I’m currently working on freeing data from Excel files
+- Data Engineer @ CapTech Consulting
 - Passed my AWS Solutions Architect Associate test in July 2021
 - Notes and key takeaways in [this repo](https://github.com/CullenDolan/AWS-SAA). Or by any of the links below
 - How to reach me: cullen@cloudengineeringsolutions.com
